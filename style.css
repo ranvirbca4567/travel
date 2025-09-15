@@ -99,7 +99,7 @@ h1, h2, h3{
 .header{
     position: relative;
     height: 95vh;
-    background: url('../images/pic5.jpg');
+    background: url('pic5.jpg');
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -595,6 +595,7 @@ h1, h2, h3{
     }
 
 }
+
 
 
 
